@@ -1,2 +1,5 @@
 # checklists
-The purpose of the task was to test the online store (http://demowebshop.tricentis.com /) and write the checklists.
+Пример написанного во время обучения чек-листа. За время обучения было написано более 10 чек-листов
+
+Задание 
+Составить чек-лист на тестирование корзины и модуля оплаты. Для оплаты используйте метод Credit card (http://demowebshop.tricentis.com/).
